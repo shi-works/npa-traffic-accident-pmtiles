@@ -16,7 +16,8 @@
 ### 属性
 - 本票の属性はそのまま生かしています。
 - ただし、値については、コード表をもとに読みやすい形式に変換しています。
-- 変換プログラム（Python）は、本リポジトリ内の「converter.zip」を参照してください。
+- 変換プログラム（Python）は、下記のリポジトリを参照してください。
+- `https://github.com/shi-works/traffic-accident-converter`
 
 ## PMTiles Viewer
 - PMTilesはPMTiles Viewerで閲覧することができます。
