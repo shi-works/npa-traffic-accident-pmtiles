@@ -4,7 +4,7 @@
 - オープンソースソフトウェアで構築
 
 ## データ配布
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/honhyo_2019-2021_convert_v2.pmtiles`(171.5MB)
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/honhyo_2019-2021_convert_v2.pmtiles`(206.3MB)
 
 ## ベクトルタイル設計情報
 - 本票そのものを可能な限り生かしたデータです。
