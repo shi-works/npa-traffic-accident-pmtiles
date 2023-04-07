@@ -4,9 +4,9 @@
 - オープンソースソフトウェアで構築
 
 ## データ配布
-### PMTiles
+### PMTiles形式
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/honhyo_2019-2021_convert_v2.pmtiles`(206.3MB)
-### GeoParquet
+### GeoParquet形式
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/honhyo_2019-2021_convert_v2.parquet`(65.8MB)
 
 ## ベクトルタイル設計情報
