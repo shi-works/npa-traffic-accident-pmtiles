@@ -4,7 +4,7 @@
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://shi-works.github.io/traffic-accident-map/
+- https://shi-works.github.io/npa-traffic-accident-map/
 
 ## データ配布
 ### PMTiles形式
