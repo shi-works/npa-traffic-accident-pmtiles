@@ -8,13 +8,19 @@
 
 ## データ配布
 ### PMTiles形式
+#### 2019-2021年
 - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021_convert_v2.pmtiles`(206.3MB)
+#### 2019-2022年
+- `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2022_convert.pmtiles`(280.8MB)
 ### GeoParquet形式
+#### 2019-2021年
 - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021_convert_v2.parquet`(65.8MB)
+#### 2019-2022年
+- `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2022_convert.parquet`(94.2MB)
 
 ## ベクトルタイル設計情報
 - 本票そのものを可能な限り生かしたデータです。
-- tippecanoeによるデータの間引き（自動）は行っていません。
+- tippecanoeによるデータの間引き（自動）を行っています。
 
 ### ズームレベル範囲
 - 0-14
@@ -23,7 +29,8 @@
 - 本票の属性はそのまま生かしています。
 - ただし、値については、コード表をもとに読みやすい形式に変換しています。
 - 変換プログラム（Python）は、下記のリポジトリを参照してください。
-- https://github.com/shi-works/traffic-accident-data-converter
+- 2019-2021年 https://github.com/shi-works/traffic-accident-data-converter
+- 2019-2022年 https://github.com/shi-works/traffic-accident-data-2022-converter
 
 ## PMTiles Viewer
 - PMTilesはPMTiles Viewerで閲覧することができます。
@@ -32,7 +39,7 @@
 ## ライセンス
 本データセットは[CC-BY-4.0](https://github.com/shi-works/traffic-accident-pmtiles/blob/main/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
 
-また、本データセットは交通事故統計情報のオープンデータ（2019年、2020年、2021年）の本票を加工して作成したものです。本データセットの使用・加工にあたっては、[警察庁Webサイトの利用規約](https://www.npa.go.jp/rules/index.html)を必ずご確認ください。
+また、本データセットは交通事故統計情報のオープンデータ（2019年、2020年、2021年、2022年）の本票を加工して作成したものです。本データセットの使用・加工にあたっては、[警察庁Webサイトの利用規約](https://www.npa.go.jp/rules/index.html)を必ずご確認ください。
 
 ## 免責事項
 利用者が当該データを用いて行う一切の行為について何ら責任を負うものではありません。
