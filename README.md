@@ -30,7 +30,7 @@
 - ただし、値については、コード表をもとに読みやすい形式に変換しています。
 - 変換プログラム（Python）は、下記のリポジトリを参照してください。
 - 2019-2021年 https://github.com/shi-works/traffic-accident-data-converter
-- 2019-2022年 https://github.com/shi-works/traffic-accident-data-2022-converter
+- 2022年 https://github.com/shi-works/traffic-accident-data-2022-converter
 
 ## PMTiles Viewer
 - PMTilesはPMTiles Viewerで閲覧することができます。
