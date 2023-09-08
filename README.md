@@ -6,6 +6,12 @@
 ## デモサイト
 - https://shi-works.github.io/npa-traffic-accident-map/
 
+## データの加工方法
+### 2019-2021年
+- https://github.com/shi-works/npa-traffic-accident-data-converter
+### 2022年
+-https://github.com/shi-works/npa-traffic-accident-data-2022-converter
+
 ## データ配布
 ### PMTiles形式
 #### 2019-2021年
