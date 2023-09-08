@@ -10,7 +10,7 @@
 ### 2019-2021年
 - https://github.com/shi-works/npa-traffic-accident-data-converter
 ### 2022年
--https://github.com/shi-works/npa-traffic-accident-data-2022-converter
+- https://github.com/shi-works/npa-traffic-accident-data-2022-converter
 
 ## データ配布
 ### PMTiles形式
