@@ -40,7 +40,7 @@
 
 ## PMTiles Viewer
 - PMTilesはPMTiles Viewerで閲覧することができます。
-- https://protomaps.github.io/PMTiles/
+- https://protomaps.github.io/PMTiles/?url=https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2022_convert.pmtiles#map=8.64/35.6674/139.8287
 
 ## ライセンス
 本データセットは[CC-BY-4.0](https://github.com/shi-works/traffic-accident-pmtiles/blob/main/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
