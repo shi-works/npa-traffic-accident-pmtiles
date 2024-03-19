@@ -3,7 +3,7 @@
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://shi-works.github.io/npa-traffic-accident-map/
+- https://shi-works.github.io/npa-traffic-accident-map-on-maplibre-gl-js/#15/35.92275/139.48775
 
 ## データの加工方法
 - 2019-2021年
